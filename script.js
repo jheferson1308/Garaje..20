@@ -627,7 +627,7 @@ if (document.readyState === 'loading') {
 
 /* ==================== QUICK RESERVE MODAL ==================== */
 (function() {
-  var WHATSAPP_NEGOCIO = '51949404494';
+  var WHATSAPP_NEGOCIO = '51923302876';
 
   var COVERAGE_ZONES = [
     'Ica', 'La Tinguiña', 'Los Aquijes', 'Ocucaje', 'Pachacutec',
