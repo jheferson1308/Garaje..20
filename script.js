@@ -2,7 +2,7 @@
 
 /* ==================== CONFIG ==================== */
 const CONFIG = {
-  WHATSAPP_NUMBER: "51949404494",
+  WHATSAPP_NUMBER: "51923302876",
   PRICES: {
     basico:   { sedan: 60,  suv: 70 },
     premium:  { sedan: 110, suv: 130 },
